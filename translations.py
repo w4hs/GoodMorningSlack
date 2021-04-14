@@ -43,6 +43,7 @@ good_morning = {
     "ARMENIAN": "Շնորհակալություն (Chnorakaloutioun)",
     "CANTONESE": "早晨 (Jóusàhn)",
     "HINDI": "सुप्रभात (Namaste)",
+    "BENGALI": "শুভ সকাল (Shuvo Sokal)",
     "JAPANESE": "おはようございます (Ohayōgozaimasu)",
     "KOREAN": "안녕하십니까 (annyeong hashimnikka)",
     "MALAY": "Selamat Pagi",
