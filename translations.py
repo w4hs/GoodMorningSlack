@@ -1,3 +1,5 @@
+import random
+
 good_morning = {
     "ALBANIAN": "Mirëmëngjes",
     "BASCUE": "Egun on",
@@ -54,3 +56,9 @@ good_morning = {
     "FARSI": "Salam",
     "TURKISH": "Günaydın",
 }
+
+good_morning_list = list(good_morning.values())
+
+
+def say_good_morning(good_morning_list):
+    return random.choice(good_morning_list)
