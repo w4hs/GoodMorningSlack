@@ -9,7 +9,7 @@
 ## Workflow
 
 - Chatbot
-  - [❌] The bot has to know the time
+  - [✅] The bot has to know the time
   - [✅] "Good morning" in a random language (each day)
   - [✅] Networking
   - [✅] Slack API access
